@@ -36,7 +36,7 @@ Shield Insurance is an insurance company who wants to understand the number of c
 
 - [x] Power Query (Basic and Advanced Operations) 
 - [x] Basic and complex DAX formulas
-- [x] Data modelling 
+- [x] Data modeling 
 - [x] Dashboard designing principles
 - [x] Feature list, metric (Power BI measures) list and documentation
 - [x] Using bookmarks and switch between visuals
