@@ -43,3 +43,4 @@ Shield Insurance is an insurance company who wants to understand the number of c
 - [x] Present insights and train users on dashboard features
 - [x] Visualizations (Bar/column/line chart, donut chart, ribbon chart, KPI card and data table)
 - [x] Filters, ranks and page navigation
+- [x] Insurance industry domain knowledge
